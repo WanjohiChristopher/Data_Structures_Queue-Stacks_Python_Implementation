@@ -1,10 +1,10 @@
-# Data_Structures_Queue-Stacks_Python_Implementation
+
 
 ### Data structures (A particular way of organizing data/ storing data)
 
  A program comprises of a data structre and algorithm and each algorithmn must have a data structure.
  
-### An algorithm is a finite series of steps followed when exceuting a program.
+ An algorithm is a finite series of steps followed when exceuting a program.
 
 # Types data structures
 
