@@ -1,16 +1,17 @@
 
 
-### Data structures (A particular way of organizing data/ storing data)
+### Data structures
+-A particular way of organizing data/ storing data
 
- A program comprises of a data structre and algorithm and each algorithmn must have a data structure.
+-A program comprises of a data structre and algorithm and each algorithmn must have a data structure.
  
- An algorithm is a finite series of steps followed when exceuting a program.
+-An algorithm is a finite series of steps followed when exceuting a program.
 
 # Types data structures
 
  1. Primitive 
 
-2. Non-primitive 
+ 2. Non-primitive 
 
  Abstract data strutures, queue, stack, list, set, dictionary, array, linked list, trees, tuple
 
@@ -22,3 +23,6 @@
 
 ### Queue operations 
 -(Enqueue/insert element in a queue, Dnqueue/remove elements in a queue)
+
+
+
